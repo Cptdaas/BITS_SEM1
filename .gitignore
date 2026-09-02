@@ -1,0 +1,19 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Local editor and environment files
+.vscode/
+.env
